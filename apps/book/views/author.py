@@ -13,8 +13,9 @@ from book.models import Author
 
 class AuthorUpdateAPIView(APIView):
 	'''Update author instance'''
+
 	@swagger_auto_schema(request_body=AuthorSerializer)
-	def put(self, request, author_id):
+	def patch(self, request, author_id):
 		'''Update selected author'''
 		author = get_object_or_404(Author, id=author_id)
 		serializer = AuthorSerializer(author, data=request.data)
@@ -26,5 +27,6 @@ class AuthorUpdateAPIView(APIView):
 
 class AuthorListAPIView(ListAPIView):
 	'''Get list of all book authors'''
+
 	queryset = Author.objects.all()
 	serializer_class = AuthorSerializer

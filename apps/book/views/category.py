@@ -13,8 +13,9 @@ from book.models import Category
 
 class CategoryAPIView(APIView):
 	'''Update category instance'''
+
 	@swagger_auto_schema(request_body=CategorySerializer)
-	def put(self, request, category_id):
+	def patch(self, request, category_id):
 		'''Update selected category'''
 		category = get_object_or_404(Category, id=category_id)
 		serializer = CategorySerializer(category, data=request.data)
@@ -26,5 +27,6 @@ class CategoryAPIView(APIView):
 
 class CategoryListAPIView(ListAPIView):
 	'''Get list of all book categories'''
+
 	queryset = Category.objects.all()
 	serializer_class = CategorySerializer

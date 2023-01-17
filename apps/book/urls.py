@@ -4,6 +4,7 @@ from book.views.book import BookListAPIView, BookDetailAPIView
 from book.views.author import AuthorListAPIView, AuthorUpdateAPIView
 from book.views.category import CategoryListAPIView, CategoryAPIView
 
+
 urlpatterns = [
 
 	# Book

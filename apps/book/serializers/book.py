@@ -6,22 +6,22 @@ from .category import CategorySerializer
 
 
 class BookListSerializer(serializers.ModelSerializer):
-	author = AuthorSerializer(many=True)
+	authors = AuthorSerializer(many=True)
 	class Meta:
 		model = Book
-		fields = ('id', 'name', 'author', 'price')
+		fields = ('id', 'name', 'authors', 'price')
 
 
 class BookDetailSerializer(serializers.ModelSerializer):
-	category = CategorySerializer(many=True)
-	author = AuthorSerializer(many=True)
+	categories = CategorySerializer(many=True)
+	authors = AuthorSerializer(many=True)
 	class Meta:
 		model = Book
-		fields = ('id', 'name', 'description', 'price', 'category', 'author')
+		fields = ('id', 'name', 'description', 'price', 'categories', 'authors')
 
 
 class BookUpdateSerializer(serializers.ModelSerializer):
 
 	class Meta:
 		model = Book
-		fields = ('id', 'name', 'description', 'price', 'category', 'author')
+		fields = ('id', 'name', 'description', 'price', 'categories', 'authors')

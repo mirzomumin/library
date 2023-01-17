@@ -34,9 +34,9 @@ class Book(BaseModel):
 	price = models.DecimalField(max_digits=10, decimal_places=2)
 
 	# Relations
-	category = models.ManyToManyField(Category,
+	categories = models.ManyToManyField(Category,
 		related_name='books')
-	author = models.ManyToManyField(Author, db_index=True,
+	authors = models.ManyToManyField(Author, db_index=True,
 		related_name='books')
 
 	def __str__(self):

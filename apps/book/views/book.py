@@ -19,9 +19,9 @@ from book.models import Book
 class BookListAPIView(ListAPIView):
 	'''Get all books in the library'''
 	serializer_class = BookListSerializer
-	queryset = Book.objects.all().prefetch_related('author')
+	queryset = Book.objects.all().prefetch_related('authors')
 	filter_backends = [filters.SearchFilter]
-	search_fields = ['name', 'author__name']
+	search_fields = ['name', 'authors__name']
 
 
 class BookDetailAPIView(APIView):

@@ -23,3 +23,18 @@ def create_book(index):
 				book_author, created = Author.objects.get_or_create(name=author)
 				book.author.add(book_author)
 				book.save()
+
+from book.models import Author, Book
+total = 3
+books = Book.objects.all()
+authors = Author.objects.all()
+for book in books[-62:]:
+	for author in authors[-15:]:
+		if book.authors.all().count() <= total and author.books.all().count() <= total:
+			print(book.authors.all().count() != total and author.books.all().count() != total)
+			author.books.add(book)
+			author.save()
+			book.save()
+	total -= 1
+	if total <= 0:
+		total = 3

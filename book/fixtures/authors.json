@@ -1,0 +1,2306 @@
+[
+{
+    "model": "book.author",
+    "pk": 151,
+    "fields": {
+        "created_at": "2023-01-17T07:36:07.688Z",
+        "updated_at": "2023-01-17T07:36:07.688Z",
+        "name": "Stephen Chbosky"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 152,
+    "fields": {
+        "created_at": "2023-01-17T07:36:07.708Z",
+        "updated_at": "2023-01-17T07:36:07.708Z",
+        "name": "Dale Carnegie"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 153,
+    "fields": {
+        "created_at": "2023-01-17T07:36:07.725Z",
+        "updated_at": "2023-01-17T07:36:07.725Z",
+        "name": "Christina Soontornvat"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 154,
+    "fields": {
+        "created_at": "2023-01-17T07:36:07.743Z",
+        "updated_at": "2023-01-17T07:36:07.743Z",
+        "name": "Robert Jordan"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 155,
+    "fields": {
+        "created_at": "2023-01-17T07:36:07.760Z",
+        "updated_at": "2023-01-17T07:36:07.760Z",
+        "name": "Eckhart Tolle"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 156,
+    "fields": {
+        "created_at": "2023-01-17T07:36:07.777Z",
+        "updated_at": "2023-01-17T07:36:07.777Z",
+        "name": "John Green"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 157,
+    "fields": {
+        "created_at": "2023-01-17T07:36:07.792Z",
+        "updated_at": "2023-01-17T07:36:07.792Z",
+        "name": "Orson Scott Card"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 158,
+    "fields": {
+        "created_at": "2023-01-17T07:36:07.809Z",
+        "updated_at": "2023-01-17T07:36:07.809Z",
+        "name": "Amaranth Borsuk"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 159,
+    "fields": {
+        "created_at": "2023-01-17T07:36:07.826Z",
+        "updated_at": "2023-01-17T07:36:07.826Z",
+        "name": "Andy Weir"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 160,
+    "fields": {
+        "created_at": "2023-01-17T07:36:07.844Z",
+        "updated_at": "2023-01-17T07:36:07.844Z",
+        "name": "Toni Morrison"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 161,
+    "fields": {
+        "created_at": "2023-01-17T07:36:07.876Z",
+        "updated_at": "2023-01-17T07:36:07.876Z",
+        "name": "Shoshana Zuboff"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 162,
+    "fields": {
+        "created_at": "2023-01-17T07:36:07.891Z",
+        "updated_at": "2023-01-17T07:36:07.891Z",
+        "name": "Laurie Halse Anderson"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 163,
+    "fields": {
+        "created_at": "2023-01-17T07:36:07.908Z",
+        "updated_at": "2023-01-17T07:36:07.908Z",
+        "name": "Mortimer J. Adler"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 164,
+    "fields": {
+        "created_at": "2023-01-17T07:36:07.915Z",
+        "updated_at": "2023-01-17T07:36:07.916Z",
+        "name": "Charles Van Doren"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 165,
+    "fields": {
+        "created_at": "2023-01-17T07:36:07.934Z",
+        "updated_at": "2023-01-17T07:36:07.934Z",
+        "name": "Jason Reynolds"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 166,
+    "fields": {
+        "created_at": "2023-01-17T07:36:07.954Z",
+        "updated_at": "2023-01-17T07:36:07.954Z",
+        "name": "Jojo Moyes"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 167,
+    "fields": {
+        "created_at": "2023-01-17T07:36:07.972Z",
+        "updated_at": "2023-01-17T07:36:07.972Z",
+        "name": "Sara Nisha Adams"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 168,
+    "fields": {
+        "created_at": "2023-01-17T07:36:07.990Z",
+        "updated_at": "2023-01-17T07:36:07.990Z",
+        "name": "Will Smith"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 169,
+    "fields": {
+        "created_at": "2023-01-17T07:36:08.006Z",
+        "updated_at": "2023-01-17T07:36:08.006Z",
+        "name": "Sally Rooney"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 170,
+    "fields": {
+        "created_at": "2023-01-17T07:36:08.025Z",
+        "updated_at": "2023-01-17T07:36:08.025Z",
+        "name": "Simon Sinek"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 171,
+    "fields": {
+        "created_at": "2023-01-17T07:36:08.040Z",
+        "updated_at": "2023-01-17T07:36:08.040Z",
+        "name": "Delia Owens"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 172,
+    "fields": {
+        "created_at": "2023-01-17T07:36:08.056Z",
+        "updated_at": "2023-01-17T07:36:08.056Z",
+        "name": "Ernest Cline"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 173,
+    "fields": {
+        "created_at": "2023-01-17T07:36:08.074Z",
+        "updated_at": "2023-01-17T07:36:08.074Z",
+        "name": "Натали Трелковски"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 174,
+    "fields": {
+        "created_at": "2023-01-17T07:36:12.222Z",
+        "updated_at": "2023-01-17T07:36:12.222Z",
+        "name": "John Berger"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 175,
+    "fields": {
+        "created_at": "2023-01-17T07:36:12.239Z",
+        "updated_at": "2023-01-17T07:36:12.239Z",
+        "name": "David Graeber"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 176,
+    "fields": {
+        "created_at": "2023-01-17T07:36:12.246Z",
+        "updated_at": "2023-01-17T07:36:12.246Z",
+        "name": "David Wengrow"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 177,
+    "fields": {
+        "created_at": "2023-01-17T07:36:12.264Z",
+        "updated_at": "2023-01-17T07:36:12.264Z",
+        "name": "William Dalrymple"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 178,
+    "fields": {
+        "created_at": "2023-01-17T07:36:12.280Z",
+        "updated_at": "2023-01-17T07:36:12.280Z",
+        "name": "Markus Zusak"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 179,
+    "fields": {
+        "created_at": "2023-01-17T07:36:12.295Z",
+        "updated_at": "2023-01-17T07:36:12.295Z",
+        "name": "Raina Telgemeier"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 180,
+    "fields": {
+        "created_at": "2023-01-17T07:36:12.322Z",
+        "updated_at": "2023-01-17T07:36:12.322Z",
+        "name": "Cixin Liu"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 181,
+    "fields": {
+        "created_at": "2023-01-17T07:36:12.340Z",
+        "updated_at": "2023-01-17T07:36:12.340Z",
+        "name": "Daniel Kahneman"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 182,
+    "fields": {
+        "created_at": "2023-01-17T07:36:12.355Z",
+        "updated_at": "2023-01-17T07:36:12.355Z",
+        "name": "Suzanne Collins"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 183,
+    "fields": {
+        "created_at": "2023-01-17T07:36:12.372Z",
+        "updated_at": "2023-01-17T07:36:12.372Z",
+        "name": "Anna Todd"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 184,
+    "fields": {
+        "created_at": "2023-01-17T07:36:12.388Z",
+        "updated_at": "2023-01-17T07:36:12.388Z",
+        "name": "F. Scott Fitzgerald"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 185,
+    "fields": {
+        "created_at": "2023-01-17T07:36:12.403Z",
+        "updated_at": "2023-01-17T07:36:12.403Z",
+        "name": "J. Tomas"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 186,
+    "fields": {
+        "created_at": "2023-01-17T07:36:12.419Z",
+        "updated_at": "2023-01-17T07:36:12.419Z",
+        "name": "James Dashner"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 187,
+    "fields": {
+        "created_at": "2023-01-17T07:36:12.434Z",
+        "updated_at": "2023-01-17T07:36:12.434Z",
+        "name": "Joanna Martine Woolfolk"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 188,
+    "fields": {
+        "created_at": "2023-01-17T07:36:12.451Z",
+        "updated_at": "2023-01-17T07:36:12.451Z",
+        "name": "Ibram X. Kendi"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 189,
+    "fields": {
+        "created_at": "2023-01-17T07:36:12.481Z",
+        "updated_at": "2023-01-17T07:36:12.481Z",
+        "name": "Matt Haig"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 190,
+    "fields": {
+        "created_at": "2023-01-17T07:36:12.497Z",
+        "updated_at": "2023-01-17T07:36:12.497Z",
+        "name": "Aldous Huxley"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 191,
+    "fields": {
+        "created_at": "2023-01-17T07:36:12.511Z",
+        "updated_at": "2023-01-17T07:36:12.512Z",
+        "name": "Gabrielle Zevin"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 192,
+    "fields": {
+        "created_at": "2023-01-17T07:36:12.528Z",
+        "updated_at": "2023-01-17T07:36:12.528Z",
+        "name": "Tomi Adeyemi"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 193,
+    "fields": {
+        "created_at": "2023-01-17T07:36:12.556Z",
+        "updated_at": "2023-01-17T07:36:12.556Z",
+        "name": "Cristina Henríquez"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 194,
+    "fields": {
+        "created_at": "2023-01-17T07:36:12.572Z",
+        "updated_at": "2023-01-17T07:36:12.572Z",
+        "name": "Don Hoesel"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 195,
+    "fields": {
+        "created_at": "2023-01-17T07:36:12.588Z",
+        "updated_at": "2023-01-17T07:36:12.588Z",
+        "name": "Harold Bloom"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 196,
+    "fields": {
+        "created_at": "2023-01-17T07:36:12.603Z",
+        "updated_at": "2023-01-17T07:36:12.603Z",
+        "name": "Paulo Coelho"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 197,
+    "fields": {
+        "created_at": "2023-01-17T07:36:12.619Z",
+        "updated_at": "2023-01-17T07:36:12.619Z",
+        "name": "Barack Obama"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 198,
+    "fields": {
+        "created_at": "2023-01-17T07:36:12.634Z",
+        "updated_at": "2023-01-17T07:36:12.634Z",
+        "name": "Harper Lee"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 199,
+    "fields": {
+        "created_at": "2023-01-17T07:36:12.649Z",
+        "updated_at": "2023-01-17T07:36:12.649Z",
+        "name": "Cormac McCarthy"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 200,
+    "fields": {
+        "created_at": "2023-01-17T07:36:12.664Z",
+        "updated_at": "2023-01-17T07:36:12.664Z",
+        "name": "Alan Gratz"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 201,
+    "fields": {
+        "created_at": "2023-01-17T07:36:16.865Z",
+        "updated_at": "2023-01-17T07:36:16.865Z",
+        "name": "Gordon Korman"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 202,
+    "fields": {
+        "created_at": "2023-01-17T07:36:16.884Z",
+        "updated_at": "2023-01-17T07:36:16.884Z",
+        "name": "Jack Kerouac"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 203,
+    "fields": {
+        "created_at": "2023-01-17T07:36:16.900Z",
+        "updated_at": "2023-01-17T07:36:16.900Z",
+        "name": "Jenny Han"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 204,
+    "fields": {
+        "created_at": "2023-01-17T07:36:16.942Z",
+        "updated_at": "2023-01-17T07:36:16.942Z",
+        "name": "Elvi Rhodes"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 205,
+    "fields": {
+        "created_at": "2023-01-17T07:36:16.958Z",
+        "updated_at": "2023-01-17T07:36:16.958Z",
+        "name": "Elie Wiesel"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 206,
+    "fields": {
+        "created_at": "2023-01-17T07:36:16.974Z",
+        "updated_at": "2023-01-17T07:36:16.974Z",
+        "name": "Natalie Babbitt"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 207,
+    "fields": {
+        "created_at": "2023-01-17T07:36:16.992Z",
+        "updated_at": "2023-01-17T07:36:16.992Z",
+        "name": "Truman Capote"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 208,
+    "fields": {
+        "created_at": "2023-01-17T07:36:17.007Z",
+        "updated_at": "2023-01-17T07:36:17.007Z",
+        "name": "Bret Easton Ellis"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 209,
+    "fields": {
+        "created_at": "2023-01-17T07:36:17.038Z",
+        "updated_at": "2023-01-17T07:36:17.038Z",
+        "name": "Susan Orlean"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 210,
+    "fields": {
+        "created_at": "2023-01-17T07:36:17.056Z",
+        "updated_at": "2023-01-17T07:36:17.056Z",
+        "name": "Christopher McDougall"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 211,
+    "fields": {
+        "created_at": "2023-01-17T07:36:17.075Z",
+        "updated_at": "2023-01-17T07:36:17.076Z",
+        "name": "Ali Hazelwood"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 212,
+    "fields": {
+        "created_at": "2023-01-17T07:36:17.093Z",
+        "updated_at": "2023-01-17T07:36:17.093Z",
+        "name": "W. E. B. Du Bois"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 213,
+    "fields": {
+        "created_at": "2023-01-17T07:36:17.108Z",
+        "updated_at": "2023-01-17T07:36:17.109Z",
+        "name": "Ling Ma"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 214,
+    "fields": {
+        "created_at": "2023-01-17T07:36:17.125Z",
+        "updated_at": "2023-01-17T07:36:17.125Z",
+        "name": "George R. R. Martin"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 215,
+    "fields": {
+        "created_at": "2023-01-17T07:36:17.140Z",
+        "updated_at": "2023-01-17T07:36:17.140Z",
+        "name": "Stephen King"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 216,
+    "fields": {
+        "created_at": "2023-01-17T07:36:17.156Z",
+        "updated_at": "2023-01-17T07:36:17.156Z",
+        "name": "Neal Shusterman"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 217,
+    "fields": {
+        "created_at": "2023-01-17T07:36:17.174Z",
+        "updated_at": "2023-01-17T07:36:17.174Z",
+        "name": "Alexis de Tocqueville"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 218,
+    "fields": {
+        "created_at": "2023-01-17T07:36:17.191Z",
+        "updated_at": "2023-01-17T07:36:17.191Z",
+        "name": "Blake Crouch"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 219,
+    "fields": {
+        "created_at": "2023-01-17T07:36:17.208Z",
+        "updated_at": "2023-01-17T07:36:17.208Z",
+        "name": "V. E. Schwab"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 220,
+    "fields": {
+        "created_at": "2023-01-17T07:36:17.224Z",
+        "updated_at": "2023-01-17T07:36:17.224Z",
+        "name": "Courtney Summers"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 221,
+    "fields": {
+        "created_at": "2023-01-17T07:36:17.239Z",
+        "updated_at": "2023-01-17T07:36:17.239Z",
+        "name": "Grant Ginder"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 222,
+    "fields": {
+        "created_at": "2023-01-17T07:36:17.256Z",
+        "updated_at": "2023-01-17T07:36:17.256Z",
+        "name": "Bryan Stevenson"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 223,
+    "fields": {
+        "created_at": "2023-01-17T07:36:17.272Z",
+        "updated_at": "2023-01-17T07:36:17.272Z",
+        "name": "Adam Smith"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 224,
+    "fields": {
+        "created_at": "2023-01-17T07:36:17.287Z",
+        "updated_at": "2023-01-17T07:36:17.287Z",
+        "name": "Cory Doctorow"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 225,
+    "fields": {
+        "created_at": "2023-01-17T07:36:17.316Z",
+        "updated_at": "2023-01-17T07:36:17.316Z",
+        "name": "David Levithan"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 226,
+    "fields": {
+        "created_at": "2023-01-17T07:36:17.331Z",
+        "updated_at": "2023-01-17T07:36:17.331Z",
+        "name": "George Orwell"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 227,
+    "fields": {
+        "created_at": "2023-01-17T07:36:17.347Z",
+        "updated_at": "2023-01-17T07:36:17.347Z",
+        "name": "Ray Dalio"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 228,
+    "fields": {
+        "created_at": "2023-01-17T07:36:22.279Z",
+        "updated_at": "2023-01-17T07:36:22.279Z",
+        "name": "Bernhard Schlink"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 229,
+    "fields": {
+        "created_at": "2023-01-17T07:36:22.307Z",
+        "updated_at": "2023-01-17T07:36:22.307Z",
+        "name": "Camille DeAngelis"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 230,
+    "fields": {
+        "created_at": "2023-01-17T07:36:22.324Z",
+        "updated_at": "2023-01-17T07:36:22.324Z",
+        "name": "Frank Herbert"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 231,
+    "fields": {
+        "created_at": "2023-01-17T07:36:22.356Z",
+        "updated_at": "2023-01-17T07:36:22.356Z",
+        "name": "Danielle Steel"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 232,
+    "fields": {
+        "created_at": "2023-01-17T07:36:28.070Z",
+        "updated_at": "2023-01-17T07:36:28.070Z",
+        "name": "Louis Sachar"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 233,
+    "fields": {
+        "created_at": "2023-01-17T07:36:28.086Z",
+        "updated_at": "2023-01-17T07:36:28.086Z",
+        "name": "David Klass"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 234,
+    "fields": {
+        "created_at": "2023-01-17T07:36:28.102Z",
+        "updated_at": "2023-01-17T07:36:28.102Z",
+        "name": "E. M. Forster"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 235,
+    "fields": {
+        "created_at": "2023-01-17T07:36:28.117Z",
+        "updated_at": "2023-01-17T07:36:28.117Z",
+        "name": "Ta-Nehisi Coates"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 236,
+    "fields": {
+        "created_at": "2023-01-17T07:36:28.134Z",
+        "updated_at": "2023-01-17T07:36:28.134Z",
+        "name": "Kurt Vonnegut"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 237,
+    "fields": {
+        "created_at": "2023-01-17T07:36:28.173Z",
+        "updated_at": "2023-01-17T07:36:28.173Z",
+        "name": "Elle Kennedy"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 238,
+    "fields": {
+        "created_at": "2023-01-17T07:36:28.188Z",
+        "updated_at": "2023-01-17T07:36:28.188Z",
+        "name": "Isaac Asimov"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 239,
+    "fields": {
+        "created_at": "2023-01-17T07:36:28.204Z",
+        "updated_at": "2023-01-17T07:36:28.204Z",
+        "name": "Frantz Fanon"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 240,
+    "fields": {
+        "created_at": "2023-01-17T07:36:28.220Z",
+        "updated_at": "2023-01-17T07:36:28.220Z",
+        "name": "Rachel Cusk"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 241,
+    "fields": {
+        "created_at": "2023-01-17T07:36:28.235Z",
+        "updated_at": "2023-01-17T07:36:28.235Z",
+        "name": "Richard Powers"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 242,
+    "fields": {
+        "created_at": "2023-01-17T07:36:28.252Z",
+        "updated_at": "2023-01-17T07:36:28.252Z",
+        "name": "Jonathan Franzen"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 243,
+    "fields": {
+        "created_at": "2023-01-17T07:36:36.620Z",
+        "updated_at": "2023-01-17T07:36:36.620Z",
+        "name": "John Steinbeck"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 244,
+    "fields": {
+        "created_at": "2023-01-17T07:36:36.642Z",
+        "updated_at": "2023-01-17T07:36:36.642Z",
+        "name": "Neal Stephenson"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 245,
+    "fields": {
+        "created_at": "2023-01-17T07:36:36.661Z",
+        "updated_at": "2023-01-17T07:36:36.661Z",
+        "name": "Mark Edmundson"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 246,
+    "fields": {
+        "created_at": "2023-01-17T07:36:36.678Z",
+        "updated_at": "2023-01-17T07:36:36.678Z",
+        "name": "Tommy Orange"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 247,
+    "fields": {
+        "created_at": "2023-01-17T07:36:36.708Z",
+        "updated_at": "2023-01-17T07:36:36.708Z",
+        "name": "Daphne Du Maurier"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 248,
+    "fields": {
+        "created_at": "2023-01-17T07:36:36.723Z",
+        "updated_at": "2023-01-17T07:36:36.724Z",
+        "name": "Nita Prose"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 249,
+    "fields": {
+        "created_at": "2023-01-17T07:36:36.744Z",
+        "updated_at": "2023-01-17T07:36:36.744Z",
+        "name": "Sherrilyn Kenyon"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 250,
+    "fields": {
+        "created_at": "2023-01-17T07:36:36.761Z",
+        "updated_at": "2023-01-17T07:36:36.761Z",
+        "name": "Margaret Atwood"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 251,
+    "fields": {
+        "created_at": "2023-01-17T07:36:36.776Z",
+        "updated_at": "2023-01-17T07:36:36.776Z",
+        "name": "Virginia Woolf"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 252,
+    "fields": {
+        "created_at": "2023-01-17T07:36:36.808Z",
+        "updated_at": "2023-01-17T07:36:36.808Z",
+        "name": "William Fulton"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 253,
+    "fields": {
+        "created_at": "2023-01-17T07:36:36.816Z",
+        "updated_at": "2023-01-17T07:36:36.816Z",
+        "name": "Joe Harris"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 254,
+    "fields": {
+        "created_at": "2023-01-17T07:36:36.832Z",
+        "updated_at": "2023-01-17T07:36:36.832Z",
+        "name": "Ransom Riggs"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 255,
+    "fields": {
+        "created_at": "2023-01-17T07:36:36.847Z",
+        "updated_at": "2023-01-17T07:36:36.847Z",
+        "name": "TJ Klune"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 256,
+    "fields": {
+        "created_at": "2023-01-17T07:36:36.878Z",
+        "updated_at": "2023-01-17T07:36:36.878Z",
+        "name": "Алекс Хилл"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 257,
+    "fields": {
+        "created_at": "2023-01-17T07:36:36.907Z",
+        "updated_at": "2023-01-17T07:36:36.907Z",
+        "name": "Henry James"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 258,
+    "fields": {
+        "created_at": "2023-01-17T07:36:36.924Z",
+        "updated_at": "2023-01-17T07:36:36.924Z",
+        "name": "Kenneth C. Davis"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 259,
+    "fields": {
+        "created_at": "2023-01-17T07:36:36.940Z",
+        "updated_at": "2023-01-17T07:36:36.940Z",
+        "name": "Don DeLillo"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 260,
+    "fields": {
+        "created_at": "2023-01-17T07:36:36.956Z",
+        "updated_at": "2023-01-17T07:36:36.956Z",
+        "name": "Homi K. Bhabha"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 261,
+    "fields": {
+        "created_at": "2023-01-17T07:36:36.974Z",
+        "updated_at": "2023-01-17T07:36:36.974Z",
+        "name": "Hernan Diaz"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 262,
+    "fields": {
+        "created_at": "2023-01-17T07:36:37.005Z",
+        "updated_at": "2023-01-17T07:36:37.005Z",
+        "name": "Colleen Hoover"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 263,
+    "fields": {
+        "created_at": "2023-01-17T07:36:37.021Z",
+        "updated_at": "2023-01-17T07:36:37.021Z",
+        "name": "Kazuo Ishiguro"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 264,
+    "fields": {
+        "created_at": "2023-01-17T07:36:37.041Z",
+        "updated_at": "2023-01-17T07:36:37.041Z",
+        "name": "Jarrod Shusterman"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 265,
+    "fields": {
+        "created_at": "2023-01-17T07:36:37.074Z",
+        "updated_at": "2023-01-17T07:36:37.074Z",
+        "name": "Peter Watts"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 266,
+    "fields": {
+        "created_at": "2023-01-17T07:36:37.090Z",
+        "updated_at": "2023-01-17T07:36:37.090Z",
+        "name": "Jerry Spinelli"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 267,
+    "fields": {
+        "created_at": "2023-01-17T07:36:37.109Z",
+        "updated_at": "2023-01-17T07:36:37.109Z",
+        "name": "Thomas S. Kuhn"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 268,
+    "fields": {
+        "created_at": "2023-01-17T07:36:37.130Z",
+        "updated_at": "2023-01-17T07:36:37.130Z",
+        "name": "Sunyi Dean"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 269,
+    "fields": {
+        "created_at": "2023-01-17T07:36:42.726Z",
+        "updated_at": "2023-01-17T07:36:42.726Z",
+        "name": "Aristotle"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 270,
+    "fields": {
+        "created_at": "2023-01-17T07:36:42.742Z",
+        "updated_at": "2023-01-17T07:36:42.742Z",
+        "name": "H.G. Wells"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 271,
+    "fields": {
+        "created_at": "2023-01-17T07:36:42.760Z",
+        "updated_at": "2023-01-17T07:36:42.760Z",
+        "name": "Daniel Goleman"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 272,
+    "fields": {
+        "created_at": "2023-01-17T07:36:42.789Z",
+        "updated_at": "2023-01-17T07:36:42.789Z",
+        "name": "Haruki Murakami"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 273,
+    "fields": {
+        "created_at": "2023-01-17T07:36:42.805Z",
+        "updated_at": "2023-01-17T07:36:42.805Z",
+        "name": "Michelle Huneven"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 274,
+    "fields": {
+        "created_at": "2023-01-17T07:36:42.821Z",
+        "updated_at": "2023-01-17T07:36:42.821Z",
+        "name": "Kevin Kwan"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 275,
+    "fields": {
+        "created_at": "2023-01-17T07:36:42.837Z",
+        "updated_at": "2023-01-17T07:36:42.837Z",
+        "name": "Эмма Райц"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 276,
+    "fields": {
+        "created_at": "2023-01-17T07:36:42.859Z",
+        "updated_at": "2023-01-17T07:36:42.859Z",
+        "name": "Yaa Gyasi"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 277,
+    "fields": {
+        "created_at": "2023-01-17T07:36:49.038Z",
+        "updated_at": "2023-01-17T07:36:49.038Z",
+        "name": "Martha Wells"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 278,
+    "fields": {
+        "created_at": "2023-01-17T07:36:49.056Z",
+        "updated_at": "2023-01-17T07:36:49.056Z",
+        "name": "Nassim Nicholas Taleb"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 279,
+    "fields": {
+        "created_at": "2023-01-17T07:36:49.071Z",
+        "updated_at": "2023-01-17T07:36:49.072Z",
+        "name": "Matthew Perry"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 280,
+    "fields": {
+        "created_at": "2023-01-17T07:36:49.091Z",
+        "updated_at": "2023-01-17T07:36:49.091Z",
+        "name": "D S Hira"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 281,
+    "fields": {
+        "created_at": "2023-01-17T07:36:49.106Z",
+        "updated_at": "2023-01-17T07:36:49.106Z",
+        "name": "David Nicholls"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 282,
+    "fields": {
+        "created_at": "2023-01-17T07:36:49.123Z",
+        "updated_at": "2023-01-17T07:36:49.123Z",
+        "name": "Veronica Roth"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 283,
+    "fields": {
+        "created_at": "2023-01-17T07:36:49.141Z",
+        "updated_at": "2023-01-17T07:36:49.141Z",
+        "name": "John E. Hall"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 284,
+    "fields": {
+        "created_at": "2023-01-17T07:36:49.149Z",
+        "updated_at": "2023-01-17T07:36:49.149Z",
+        "name": "Michael E. Hall"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 285,
+    "fields": {
+        "created_at": "2023-01-17T07:36:49.180Z",
+        "updated_at": "2023-01-17T07:36:49.180Z",
+        "name": "Sheryl Sandberg"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 286,
+    "fields": {
+        "created_at": "2023-01-17T07:36:49.196Z",
+        "updated_at": "2023-01-17T07:36:49.196Z",
+        "name": "Robert Greene"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 287,
+    "fields": {
+        "created_at": "2023-01-17T07:36:49.214Z",
+        "updated_at": "2023-01-17T07:36:49.214Z",
+        "name": "Chip Heath"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 288,
+    "fields": {
+        "created_at": "2023-01-17T07:36:49.221Z",
+        "updated_at": "2023-01-17T07:36:49.221Z",
+        "name": "Dan Heath"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 289,
+    "fields": {
+        "created_at": "2023-01-17T07:36:49.238Z",
+        "updated_at": "2023-01-17T07:36:49.238Z",
+        "name": "Reyna Grande"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 290,
+    "fields": {
+        "created_at": "2023-01-17T07:36:49.254Z",
+        "updated_at": "2023-01-17T07:36:49.254Z",
+        "name": "Ann Liang"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 291,
+    "fields": {
+        "created_at": "2023-01-17T07:36:49.272Z",
+        "updated_at": "2023-01-17T07:36:49.272Z",
+        "name": "Anthony Horowitz"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 292,
+    "fields": {
+        "created_at": "2023-01-17T07:36:49.288Z",
+        "updated_at": "2023-01-17T07:36:49.289Z",
+        "name": "James N. BeMiller"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 293,
+    "fields": {
+        "created_at": "2023-01-17T07:36:49.296Z",
+        "updated_at": "2023-01-17T07:36:49.296Z",
+        "name": "Roy L. Whistler"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 294,
+    "fields": {
+        "created_at": "2023-01-17T07:36:49.312Z",
+        "updated_at": "2023-01-17T07:36:49.312Z",
+        "name": "Anna Solomon"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 295,
+    "fields": {
+        "created_at": "2023-01-17T07:36:49.329Z",
+        "updated_at": "2023-01-17T07:36:49.329Z",
+        "name": "Ruth Ozeki"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 296,
+    "fields": {
+        "created_at": "2023-01-17T07:36:49.348Z",
+        "updated_at": "2023-01-17T07:36:49.348Z",
+        "name": "Tochi Onyebuchi"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 297,
+    "fields": {
+        "created_at": "2023-01-17T07:36:49.366Z",
+        "updated_at": "2023-01-17T07:36:49.366Z",
+        "name": "Hans Rosling"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 298,
+    "fields": {
+        "created_at": "2023-01-17T07:36:49.374Z",
+        "updated_at": "2023-01-17T07:36:49.374Z",
+        "name": "Anna Rosling Rönnlund"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 299,
+    "fields": {
+        "created_at": "2023-01-17T07:36:49.381Z",
+        "updated_at": "2023-01-17T07:36:49.381Z",
+        "name": "Ola Rosling"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 300,
+    "fields": {
+        "created_at": "2023-01-17T07:36:49.397Z",
+        "updated_at": "2023-01-17T07:36:49.397Z",
+        "name": "Jason Fried"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 301,
+    "fields": {
+        "created_at": "2023-01-17T07:36:49.404Z",
+        "updated_at": "2023-01-17T07:36:49.404Z",
+        "name": "David Heinemeier Hansson"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 302,
+    "fields": {
+        "created_at": "2023-01-17T07:36:49.420Z",
+        "updated_at": "2023-01-17T07:36:49.420Z",
+        "name": "Raphael Simon"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 303,
+    "fields": {
+        "created_at": "2023-01-17T07:36:49.450Z",
+        "updated_at": "2023-01-17T07:36:49.450Z",
+        "name": "Colm Toibin"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 304,
+    "fields": {
+        "created_at": "2023-01-17T07:36:49.468Z",
+        "updated_at": "2023-01-17T07:36:49.468Z",
+        "name": "Megan E. Freeman"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 305,
+    "fields": {
+        "created_at": "2023-01-17T07:36:49.488Z",
+        "updated_at": "2023-01-17T07:36:49.488Z",
+        "name": "Jonathan Safran Foer"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 306,
+    "fields": {
+        "created_at": "2023-01-17T07:36:49.505Z",
+        "updated_at": "2023-01-17T07:36:49.505Z",
+        "name": "Vladimir Nabokov"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 307,
+    "fields": {
+        "created_at": "2023-01-17T07:36:49.549Z",
+        "updated_at": "2023-01-17T07:36:49.549Z",
+        "name": "Andrea Cheng"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 308,
+    "fields": {
+        "created_at": "2023-01-17T07:36:55.331Z",
+        "updated_at": "2023-01-17T07:36:55.331Z",
+        "name": "Nora Roberts"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 309,
+    "fields": {
+        "created_at": "2023-01-17T07:36:55.349Z",
+        "updated_at": "2023-01-17T07:36:55.349Z",
+        "name": "Mary Shelley"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 310,
+    "fields": {
+        "created_at": "2023-01-17T07:36:55.365Z",
+        "updated_at": "2023-01-17T07:36:55.365Z",
+        "name": "C. R. Snyder"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 311,
+    "fields": {
+        "created_at": "2023-01-17T07:36:55.374Z",
+        "updated_at": "2023-01-17T07:36:55.374Z",
+        "name": "Shane J. Lopez"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 312,
+    "fields": {
+        "created_at": "2023-01-17T07:36:55.389Z",
+        "updated_at": "2023-01-17T07:36:55.389Z",
+        "name": "David Pringle"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 313,
+    "fields": {
+        "created_at": "2023-01-17T07:36:55.419Z",
+        "updated_at": "2023-01-17T07:36:55.419Z",
+        "name": "Karan K Anders"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 314,
+    "fields": {
+        "created_at": "2023-01-17T07:36:55.435Z",
+        "updated_at": "2023-01-17T07:36:55.435Z",
+        "name": "Scott Westerfeld"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 315,
+    "fields": {
+        "created_at": "2023-01-17T07:36:55.457Z",
+        "updated_at": "2023-01-17T07:36:55.457Z",
+        "name": "Brendan Kiely"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 316,
+    "fields": {
+        "created_at": "2023-01-17T07:36:55.473Z",
+        "updated_at": "2023-01-17T07:36:55.473Z",
+        "name": "Anne Frank"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 317,
+    "fields": {
+        "created_at": "2023-01-17T07:36:55.516Z",
+        "updated_at": "2023-01-17T07:36:55.516Z",
+        "name": "Александр Андреев"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 318,
+    "fields": {
+        "created_at": "2023-01-17T07:36:55.523Z",
+        "updated_at": "2023-01-17T07:36:55.523Z",
+        "name": "Максим Андреев"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 319,
+    "fields": {
+        "created_at": "2023-01-17T07:36:55.554Z",
+        "updated_at": "2023-01-17T07:36:55.554Z",
+        "name": "Sam Harris"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 320,
+    "fields": {
+        "created_at": "2023-01-17T07:36:55.571Z",
+        "updated_at": "2023-01-17T07:36:55.571Z",
+        "name": "Bobby Hall"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 321,
+    "fields": {
+        "created_at": "2023-01-17T07:36:55.587Z",
+        "updated_at": "2023-01-17T07:36:55.587Z",
+        "name": "Holly Black"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 322,
+    "fields": {
+        "created_at": "2023-01-17T07:36:55.602Z",
+        "updated_at": "2023-01-17T07:36:55.602Z",
+        "name": "Anne Rice"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 323,
+    "fields": {
+        "created_at": "2023-01-17T07:36:55.632Z",
+        "updated_at": "2023-01-17T07:36:55.632Z",
+        "name": "Barb Johnson"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 324,
+    "fields": {
+        "created_at": "2023-01-17T07:36:55.647Z",
+        "updated_at": "2023-01-17T07:36:55.647Z",
+        "name": "Emma Young"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 325,
+    "fields": {
+        "created_at": "2023-01-17T07:36:55.666Z",
+        "updated_at": "2023-01-17T07:36:55.666Z",
+        "name": "Kristin Hannah"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 326,
+    "fields": {
+        "created_at": "2023-01-17T07:36:55.684Z",
+        "updated_at": "2023-01-17T07:36:55.684Z",
+        "name": "Rael Dornfest"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 327,
+    "fields": {
+        "created_at": "2023-01-17T07:36:55.691Z",
+        "updated_at": "2023-01-17T07:36:55.691Z",
+        "name": "Paul Bausch"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 328,
+    "fields": {
+        "created_at": "2023-01-17T07:36:55.699Z",
+        "updated_at": "2023-01-17T07:36:55.699Z",
+        "name": "Tara Calishain"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 329,
+    "fields": {
+        "created_at": "2023-01-17T07:36:55.714Z",
+        "updated_at": "2023-01-17T07:36:55.714Z",
+        "name": "Lakhmir Singh & Manjit Kaur"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 330,
+    "fields": {
+        "created_at": "2023-01-17T07:36:55.730Z",
+        "updated_at": "2023-01-17T07:36:55.730Z",
+        "name": "Nghi Vo"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 331,
+    "fields": {
+        "created_at": "2023-01-17T07:36:55.760Z",
+        "updated_at": "2023-01-17T07:36:55.760Z",
+        "name": "Rhonda Byrne"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 332,
+    "fields": {
+        "created_at": "2023-01-17T07:36:55.776Z",
+        "updated_at": "2023-01-17T07:36:55.776Z",
+        "name": "Noam Chomsky"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 333,
+    "fields": {
+        "created_at": "2023-01-17T07:36:55.792Z",
+        "updated_at": "2023-01-17T07:36:55.792Z",
+        "name": "Toni Rønnow-Rasmussen"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 334,
+    "fields": {
+        "created_at": "2023-01-17T07:36:55.799Z",
+        "updated_at": "2023-01-17T07:36:55.799Z",
+        "name": "Michael J. Zimmerman"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 335,
+    "fields": {
+        "created_at": "2023-01-17T07:36:55.814Z",
+        "updated_at": "2023-01-17T07:36:55.814Z",
+        "name": "James Allen"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 336,
+    "fields": {
+        "created_at": "2023-01-17T07:36:55.830Z",
+        "updated_at": "2023-01-17T07:36:55.830Z",
+        "name": "David Greenland"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 337,
+    "fields": {
+        "created_at": "2023-01-17T07:36:55.837Z",
+        "updated_at": "2023-01-17T07:36:55.837Z",
+        "name": "Douglas G. Goodin"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 338,
+    "fields": {
+        "created_at": "2023-01-17T07:36:55.844Z",
+        "updated_at": "2023-01-17T07:36:55.844Z",
+        "name": "Raymond C. Smith"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 339,
+    "fields": {
+        "created_at": "2023-01-17T07:37:01.748Z",
+        "updated_at": "2023-01-17T07:37:01.748Z",
+        "name": "Susan Straight"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 340,
+    "fields": {
+        "created_at": "2023-01-17T07:37:01.766Z",
+        "updated_at": "2023-01-17T07:37:01.766Z",
+        "name": "Alice Adams"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 341,
+    "fields": {
+        "created_at": "2023-01-17T07:37:01.782Z",
+        "updated_at": "2023-01-17T07:37:01.782Z",
+        "name": "Cynthia Rylant"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 342,
+    "fields": {
+        "created_at": "2023-01-17T07:37:01.802Z",
+        "updated_at": "2023-01-17T07:37:01.802Z",
+        "name": "Charles White"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 343,
+    "fields": {
+        "created_at": "2023-01-17T07:37:01.810Z",
+        "updated_at": "2023-01-17T07:37:01.810Z",
+        "name": "Joseph Chen"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 344,
+    "fields": {
+        "created_at": "2023-01-17T07:37:01.826Z",
+        "updated_at": "2023-01-17T07:37:01.826Z",
+        "name": "Robert Crawford"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 345,
+    "fields": {
+        "created_at": "2023-01-17T07:37:01.842Z",
+        "updated_at": "2023-01-17T07:37:01.842Z",
+        "name": "Angela Graham"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 346,
+    "fields": {
+        "created_at": "2023-01-17T07:37:01.858Z",
+        "updated_at": "2023-01-17T07:37:01.858Z",
+        "name": "K. C. Dyer"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 347,
+    "fields": {
+        "created_at": "2023-01-17T07:37:01.865Z",
+        "updated_at": "2023-01-17T07:37:01.865Z",
+        "name": "kc dyer"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 348,
+    "fields": {
+        "created_at": "2023-01-17T07:37:01.885Z",
+        "updated_at": "2023-01-17T07:37:01.885Z",
+        "name": "Tamara Sonn"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 349,
+    "fields": {
+        "created_at": "2023-01-17T07:37:07.483Z",
+        "updated_at": "2023-01-17T07:37:07.483Z",
+        "name": "Kevin Patterson"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 350,
+    "fields": {
+        "created_at": "2023-01-17T07:37:07.501Z",
+        "updated_at": "2023-01-17T07:37:07.501Z",
+        "name": "Marco Cantù"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 351,
+    "fields": {
+        "created_at": "2023-01-17T07:37:07.520Z",
+        "updated_at": "2023-01-17T07:37:07.520Z",
+        "name": "Andrew Vachss"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 352,
+    "fields": {
+        "created_at": "2023-01-17T07:37:07.535Z",
+        "updated_at": "2023-01-17T07:37:07.536Z",
+        "name": "Frank Lentricchia"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 353,
+    "fields": {
+        "created_at": "2023-01-17T07:37:07.551Z",
+        "updated_at": "2023-01-17T07:37:07.551Z",
+        "name": "John Levitt"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 354,
+    "fields": {
+        "created_at": "2023-01-17T07:37:07.566Z",
+        "updated_at": "2023-01-17T07:37:07.566Z",
+        "name": "Kathryn Riley"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 355,
+    "fields": {
+        "created_at": "2023-01-17T07:37:07.583Z",
+        "updated_at": "2023-01-17T07:37:07.583Z",
+        "name": "Candia McWilliam"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 356,
+    "fields": {
+        "created_at": "2023-01-17T07:37:07.598Z",
+        "updated_at": "2023-01-17T07:37:07.598Z",
+        "name": "Horace McCoy"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 357,
+    "fields": {
+        "created_at": "2023-01-17T07:37:07.614Z",
+        "updated_at": "2023-01-17T07:37:07.614Z",
+        "name": "Eleanor Allen"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 358,
+    "fields": {
+        "created_at": "2023-01-17T07:37:12.406Z",
+        "updated_at": "2023-01-17T07:37:12.406Z",
+        "name": "Jennie Fields"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 359,
+    "fields": {
+        "created_at": "2023-01-17T07:37:12.425Z",
+        "updated_at": "2023-01-17T07:37:12.425Z",
+        "name": "John Foster"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 360,
+    "fields": {
+        "created_at": "2023-01-17T07:37:12.442Z",
+        "updated_at": "2023-01-17T07:37:12.442Z",
+        "name": "Guy N. Rutty"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 361,
+    "fields": {
+        "created_at": "2023-01-17T07:37:12.460Z",
+        "updated_at": "2023-01-17T07:37:12.460Z",
+        "name": "Михаил Лермонтов"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 362,
+    "fields": {
+        "created_at": "2023-01-17T07:37:12.476Z",
+        "updated_at": "2023-01-17T07:37:12.476Z",
+        "name": "Charles Neider"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 363,
+    "fields": {
+        "created_at": "2023-01-17T07:37:12.492Z",
+        "updated_at": "2023-01-17T07:37:12.492Z",
+        "name": "Sarah Ann Hill"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 364,
+    "fields": {
+        "created_at": "2023-01-17T07:37:37.583Z",
+        "updated_at": "2023-01-17T07:37:37.583Z",
+        "name": "Shelly Errington"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 365,
+    "fields": {
+        "created_at": "2023-01-17T07:37:37.604Z",
+        "updated_at": "2023-01-17T07:37:37.604Z",
+        "name": "Andrew J. Polsky"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 366,
+    "fields": {
+        "created_at": "2023-01-17T07:37:37.619Z",
+        "updated_at": "2023-01-17T07:37:37.620Z",
+        "name": "Hugh Moore"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 367,
+    "fields": {
+        "created_at": "2023-01-17T07:37:37.635Z",
+        "updated_at": "2023-01-17T07:37:37.635Z",
+        "name": "Corey Seemiller"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 368,
+    "fields": {
+        "created_at": "2023-01-17T07:37:37.642Z",
+        "updated_at": "2023-01-17T07:37:37.642Z",
+        "name": "Meghan Grace"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 369,
+    "fields": {
+        "created_at": "2023-01-17T07:37:37.658Z",
+        "updated_at": "2023-01-17T07:37:37.658Z",
+        "name": "Robert Westwood"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 370,
+    "fields": {
+        "created_at": "2023-01-17T07:37:37.666Z",
+        "updated_at": "2023-01-17T07:37:37.666Z",
+        "name": "Carl Rhodes"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 371,
+    "fields": {
+        "created_at": "2023-01-17T07:37:37.682Z",
+        "updated_at": "2023-01-17T07:37:37.682Z",
+        "name": "Nicole Augenti"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 372,
+    "fields": {
+        "created_at": "2023-01-17T07:37:37.699Z",
+        "updated_at": "2023-01-17T07:37:37.699Z",
+        "name": "Miriam Newhouse"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 373,
+    "fields": {
+        "created_at": "2023-01-17T07:37:37.706Z",
+        "updated_at": "2023-01-17T07:37:37.706Z",
+        "name": "Peter Messaline"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 374,
+    "fields": {
+        "created_at": "2023-01-17T07:37:37.722Z",
+        "updated_at": "2023-01-17T07:37:37.722Z",
+        "name": "Megan Erickson"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 375,
+    "fields": {
+        "created_at": "2023-01-17T07:37:37.741Z",
+        "updated_at": "2023-01-17T07:37:37.741Z",
+        "name": "Alan Jenkins"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 376,
+    "fields": {
+        "created_at": "2023-01-17T07:37:37.758Z",
+        "updated_at": "2023-01-17T07:37:37.758Z",
+        "name": "Francesca Simon"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 377,
+    "fields": {
+        "created_at": "2023-01-17T07:37:44.246Z",
+        "updated_at": "2023-01-17T07:37:44.246Z",
+        "name": "Nick Brownlee"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 378,
+    "fields": {
+        "created_at": "2023-01-17T07:37:44.276Z",
+        "updated_at": "2023-01-17T07:37:44.276Z",
+        "name": "Linda Conrad"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 379,
+    "fields": {
+        "created_at": "2023-01-17T07:37:44.292Z",
+        "updated_at": "2023-01-17T07:37:44.292Z",
+        "name": "Rebecca J. Scott"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 380,
+    "fields": {
+        "created_at": "2023-01-17T07:37:44.299Z",
+        "updated_at": "2023-01-17T07:37:44.300Z",
+        "name": "Thomas C. Holt"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 381,
+    "fields": {
+        "created_at": "2023-01-17T07:37:44.307Z",
+        "updated_at": "2023-01-17T07:37:44.307Z",
+        "name": "Frederick Cooper"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 382,
+    "fields": {
+        "created_at": "2023-01-17T07:37:44.314Z",
+        "updated_at": "2023-01-17T07:37:44.314Z",
+        "name": "Aims McGuinness"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 383,
+    "fields": {
+        "created_at": "2023-01-17T07:37:44.331Z",
+        "updated_at": "2023-01-17T07:37:44.331Z",
+        "name": "Jane Porter"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 384,
+    "fields": {
+        "created_at": "2023-01-17T07:37:44.348Z",
+        "updated_at": "2023-01-17T07:37:44.348Z",
+        "name": "Dale Ivan Smith"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 385,
+    "fields": {
+        "created_at": "2023-01-17T07:37:44.364Z",
+        "updated_at": "2023-01-17T07:37:44.364Z",
+        "name": "Heidi Shelton-Jenck"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 386,
+    "fields": {
+        "created_at": "2023-01-17T07:37:44.380Z",
+        "updated_at": "2023-01-17T07:37:44.380Z",
+        "name": "J. Charlemagne Bracq"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 387,
+    "fields": {
+        "created_at": "2023-01-17T07:37:49.994Z",
+        "updated_at": "2023-01-17T07:37:49.994Z",
+        "name": "G. Partington"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 388,
+    "fields": {
+        "created_at": "2023-01-17T07:37:50.004Z",
+        "updated_at": "2023-01-17T07:37:50.004Z",
+        "name": "A. Smyth"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 389,
+    "fields": {
+        "created_at": "2023-01-17T07:37:50.022Z",
+        "updated_at": "2023-01-17T07:37:50.022Z",
+        "name": "John Davidson"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 390,
+    "fields": {
+        "created_at": "2023-01-17T07:37:50.040Z",
+        "updated_at": "2023-01-17T07:37:50.041Z",
+        "name": "Anna Durand"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 391,
+    "fields": {
+        "created_at": "2023-01-17T07:37:50.058Z",
+        "updated_at": "2023-01-17T07:37:50.058Z",
+        "name": "Под ред. Ежовой Н.Ф."
+    }
+},
+{
+    "model": "book.author",
+    "pk": 392,
+    "fields": {
+        "created_at": "2023-01-17T07:37:50.087Z",
+        "updated_at": "2023-01-17T07:37:50.087Z",
+        "name": "John Reed"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 393,
+    "fields": {
+        "created_at": "2023-01-17T07:37:50.103Z",
+        "updated_at": "2023-01-17T07:37:50.103Z",
+        "name": "Alexander Pushkin"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 394,
+    "fields": {
+        "created_at": "2023-01-17T07:37:54.250Z",
+        "updated_at": "2023-01-17T07:37:54.250Z",
+        "name": "Ann Radcliffe"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 395,
+    "fields": {
+        "created_at": "2023-01-17T07:37:54.272Z",
+        "updated_at": "2023-01-17T07:37:54.272Z",
+        "name": "Blair Babylon"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 396,
+    "fields": {
+        "created_at": "2023-01-17T07:37:54.301Z",
+        "updated_at": "2023-01-17T07:37:54.301Z",
+        "name": "Anthony Trollope"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 397,
+    "fields": {
+        "created_at": "2023-01-17T07:37:54.331Z",
+        "updated_at": "2023-01-17T07:37:54.331Z",
+        "name": "Thomas Hardy"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 398,
+    "fields": {
+        "created_at": "2023-01-17T07:37:54.347Z",
+        "updated_at": "2023-01-17T07:37:54.347Z",
+        "name": "David Arscott"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 399,
+    "fields": {
+        "created_at": "2023-01-17T07:37:54.362Z",
+        "updated_at": "2023-01-17T07:37:54.362Z",
+        "name": "Marissa Meyer"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 400,
+    "fields": {
+        "created_at": "2023-01-17T07:37:54.378Z",
+        "updated_at": "2023-01-17T07:37:54.378Z",
+        "name": "George Grossmith"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 401,
+    "fields": {
+        "created_at": "2023-01-17T07:37:54.385Z",
+        "updated_at": "2023-01-17T07:37:54.386Z",
+        "name": "Weedon Grossmith"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 402,
+    "fields": {
+        "created_at": "2023-01-17T07:37:54.403Z",
+        "updated_at": "2023-01-17T07:37:54.403Z",
+        "name": "Bloomsbury Publishing"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 403,
+    "fields": {
+        "created_at": "2023-01-17T07:38:00.175Z",
+        "updated_at": "2023-01-17T07:38:00.175Z",
+        "name": "Edith Wharton"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 404,
+    "fields": {
+        "created_at": "2023-01-17T07:38:00.194Z",
+        "updated_at": "2023-01-17T07:38:00.194Z",
+        "name": "Roman Vazhinsky"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 405,
+    "fields": {
+        "created_at": "2023-01-17T07:38:00.210Z",
+        "updated_at": "2023-01-17T07:38:00.210Z",
+        "name": "Robert Dallek"
+    }
+},
+{
+    "model": "book.author",
+    "pk": 406,
+    "fields": {
+        "created_at": "2023-01-17T07:38:00.226Z",
+        "updated_at": "2023-01-17T07:38:00.226Z",
+        "name": "Sunera Thobani"
+    }
+}
+]

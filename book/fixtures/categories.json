@@ -1,0 +1,299 @@
+[
+{
+    "model": "book.category",
+    "pk": 56,
+    "fields": {
+        "created_at": "2023-01-17T07:36:07.672Z",
+        "updated_at": "2023-01-17T07:36:07.672Z",
+        "name": "Young Adult Fiction"
+    }
+},
+{
+    "model": "book.category",
+    "pk": 57,
+    "fields": {
+        "created_at": "2023-01-17T07:36:07.698Z",
+        "updated_at": "2023-01-17T07:36:07.698Z",
+        "name": "Self-Help"
+    }
+},
+{
+    "model": "book.category",
+    "pk": 58,
+    "fields": {
+        "created_at": "2023-01-17T07:36:07.718Z",
+        "updated_at": "2023-01-17T07:36:07.718Z",
+        "name": "Juvenile Nonfiction"
+    }
+},
+{
+    "model": "book.category",
+    "pk": 59,
+    "fields": {
+        "created_at": "2023-01-17T07:36:07.736Z",
+        "updated_at": "2023-01-17T07:36:07.736Z",
+        "name": "Fiction"
+    }
+},
+{
+    "model": "book.category",
+    "pk": 60,
+    "fields": {
+        "created_at": "2023-01-17T07:36:07.753Z",
+        "updated_at": "2023-01-17T07:36:07.753Z",
+        "name": "Body, Mind & Spirit"
+    }
+},
+{
+    "model": "book.category",
+    "pk": 61,
+    "fields": {
+        "created_at": "2023-01-17T07:36:07.802Z",
+        "updated_at": "2023-01-17T07:36:07.802Z",
+        "name": "Literary Criticism"
+    }
+},
+{
+    "model": "book.category",
+    "pk": 62,
+    "fields": {
+        "created_at": "2023-01-17T07:36:07.868Z",
+        "updated_at": "2023-01-17T07:36:07.868Z",
+        "name": "Computers"
+    }
+},
+{
+    "model": "book.category",
+    "pk": 63,
+    "fields": {
+        "created_at": "2023-01-17T07:36:07.901Z",
+        "updated_at": "2023-01-17T07:36:07.901Z",
+        "name": "Language Arts & Disciplines"
+    }
+},
+{
+    "model": "book.category",
+    "pk": 64,
+    "fields": {
+        "created_at": "2023-01-17T07:36:07.927Z",
+        "updated_at": "2023-01-17T07:36:07.927Z",
+        "name": "Juvenile Fiction"
+    }
+},
+{
+    "model": "book.category",
+    "pk": 65,
+    "fields": {
+        "created_at": "2023-01-17T07:36:07.982Z",
+        "updated_at": "2023-01-17T07:36:07.982Z",
+        "name": "Biography & Autobiography"
+    }
+},
+{
+    "model": "book.category",
+    "pk": 66,
+    "fields": {
+        "created_at": "2023-01-17T07:36:08.017Z",
+        "updated_at": "2023-01-17T07:36:08.017Z",
+        "name": "Business & Economics"
+    }
+},
+{
+    "model": "book.category",
+    "pk": 67,
+    "fields": {
+        "created_at": "2023-01-17T07:36:08.066Z",
+        "updated_at": "2023-01-17T07:36:08.066Z",
+        "name": "Poetry"
+    }
+},
+{
+    "model": "book.category",
+    "pk": 68,
+    "fields": {
+        "created_at": "2023-01-17T07:36:12.214Z",
+        "updated_at": "2023-01-17T07:36:12.214Z",
+        "name": "Art"
+    }
+},
+{
+    "model": "book.category",
+    "pk": 69,
+    "fields": {
+        "created_at": "2023-01-17T07:36:12.232Z",
+        "updated_at": "2023-01-17T07:36:12.232Z",
+        "name": "Social Science"
+    }
+},
+{
+    "model": "book.category",
+    "pk": 70,
+    "fields": {
+        "created_at": "2023-01-17T07:36:12.257Z",
+        "updated_at": "2023-01-17T07:36:12.257Z",
+        "name": "History"
+    }
+},
+{
+    "model": "book.category",
+    "pk": 71,
+    "fields": {
+        "created_at": "2023-01-17T07:36:12.332Z",
+        "updated_at": "2023-01-17T07:36:12.332Z",
+        "name": "Psychology"
+    }
+},
+{
+    "model": "book.category",
+    "pk": 72,
+    "fields": {
+        "created_at": "2023-01-17T07:36:12.444Z",
+        "updated_at": "2023-01-17T07:36:12.444Z",
+        "name": "Political Science"
+    }
+},
+{
+    "model": "book.category",
+    "pk": 73,
+    "fields": {
+        "created_at": "2023-01-17T07:36:16.984Z",
+        "updated_at": "2023-01-17T07:36:16.984Z",
+        "name": "True Crime"
+    }
+},
+{
+    "model": "book.category",
+    "pk": 74,
+    "fields": {
+        "created_at": "2023-01-17T07:36:17.049Z",
+        "updated_at": "2023-01-17T07:36:17.049Z",
+        "name": "Sports & Recreation"
+    }
+},
+{
+    "model": "book.category",
+    "pk": 75,
+    "fields": {
+        "created_at": "2023-01-17T07:36:17.249Z",
+        "updated_at": "2023-01-17T07:36:17.249Z",
+        "name": "Law"
+    }
+},
+{
+    "model": "book.category",
+    "pk": 76,
+    "fields": {
+        "created_at": "2023-01-17T07:36:36.653Z",
+        "updated_at": "2023-01-17T07:36:36.653Z",
+        "name": "Education"
+    }
+},
+{
+    "model": "book.category",
+    "pk": 77,
+    "fields": {
+        "created_at": "2023-01-17T07:36:36.801Z",
+        "updated_at": "2023-01-17T07:36:36.801Z",
+        "name": "Mathematics"
+    }
+},
+{
+    "model": "book.category",
+    "pk": 78,
+    "fields": {
+        "created_at": "2023-01-17T07:36:37.102Z",
+        "updated_at": "2023-01-17T07:36:37.102Z",
+        "name": "Science"
+    }
+},
+{
+    "model": "book.category",
+    "pk": 79,
+    "fields": {
+        "created_at": "2023-01-17T07:36:42.718Z",
+        "updated_at": "2023-01-17T07:36:42.719Z",
+        "name": "Philosophy"
+    }
+},
+{
+    "model": "book.category",
+    "pk": 80,
+    "fields": {
+        "created_at": "2023-01-17T07:36:49.082Z",
+        "updated_at": "2023-01-17T07:36:49.082Z",
+        "name": "Technology & Engineering"
+    }
+},
+{
+    "model": "book.category",
+    "pk": 81,
+    "fields": {
+        "created_at": "2023-01-17T07:36:49.134Z",
+        "updated_at": "2023-01-17T07:36:49.134Z",
+        "name": "Medical"
+    }
+},
+{
+    "model": "book.category",
+    "pk": 82,
+    "fields": {
+        "created_at": "2023-01-17T07:37:01.878Z",
+        "updated_at": "2023-01-17T07:37:01.878Z",
+        "name": "Religion"
+    }
+},
+{
+    "model": "book.category",
+    "pk": 83,
+    "fields": {
+        "created_at": "2023-01-17T07:37:07.512Z",
+        "updated_at": "2023-01-17T07:37:07.512Z",
+        "name": "Comics & Graphic Novels"
+    }
+},
+{
+    "model": "book.category",
+    "pk": 84,
+    "fields": {
+        "created_at": "2023-01-17T07:37:12.453Z",
+        "updated_at": "2023-01-17T07:37:12.453Z",
+        "name": "Literary Collections"
+    }
+},
+{
+    "model": "book.category",
+    "pk": 85,
+    "fields": {
+        "created_at": "2023-01-17T07:37:37.692Z",
+        "updated_at": "2023-01-17T07:37:37.692Z",
+        "name": "Performing Arts"
+    }
+},
+{
+    "model": "book.category",
+    "pk": 86,
+    "fields": {
+        "created_at": "2023-01-17T07:37:50.051Z",
+        "updated_at": "2023-01-17T07:37:50.051Z",
+        "name": "Foreign Language Study"
+    }
+},
+{
+    "model": "book.category",
+    "pk": 87,
+    "fields": {
+        "created_at": "2023-01-17T07:37:54.396Z",
+        "updated_at": "2023-01-17T07:37:54.396Z",
+        "name": "Reference"
+    }
+},
+{
+    "model": "book.category",
+    "pk": 88,
+    "fields": {
+        "created_at": "2023-01-17T07:38:00.187Z",
+        "updated_at": "2023-01-17T07:38:00.187Z",
+        "name": "Study Aids"
+    }
+}
+]

@@ -52,7 +52,7 @@ To fill database in data for Author, Category and Book run the commands
 (env)$ python manage.py loaddata apps/book/fixtures/books.json --app book.book
 ```
 
-Once you've done you can move again to `http://127.0.0.1:8000/swagger/` to check data.
+Once you've done run local server and you can move again to `http://127.0.0.1:8000/swagger/` to check data.
 
 
 ## Tests

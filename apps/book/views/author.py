@@ -27,7 +27,7 @@ class AuthorUpdateAPIView(APIView):
         return Response(serializer.errors, status=HTTP_400_BAD_REQUEST)
 
 
-class AuthorListAPIView(ListCreateAPIView):
+class AuthorListCreateAPIView(ListCreateAPIView):
     '''Get list of all book authors and create author instance'''
 
     queryset = Author.objects.all()

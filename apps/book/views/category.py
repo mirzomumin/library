@@ -27,7 +27,7 @@ class CategoryAPIView(APIView):
         return Response(serializer.errors, status=HTTP_400_BAD_REQUEST)
 
 
-class CategoryListAPIView(ListCreateAPIView):
+class CategoryListCreateAPIView(ListCreateAPIView):
     '''Get list of all book categories and create category instance'''
 
     queryset = Category.objects.all()

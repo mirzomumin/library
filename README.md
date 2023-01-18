@@ -44,7 +44,8 @@ And navigate to `http://127.0.0.1:8000/swagger/`.
 
 ## Fixtures
 
-To fill database in data for Author, Category and Book run the commands:
+To fill database in data for Author, Category and Book run the commands
+(but at first quit the server with CTRL + C):
 ```sh
 (env)$ python manage.py loaddata apps/book/fixtures/authors.json --app book.author
 (env)$ python manage.py loaddata apps/book/fixtures/categories.json --app book.category

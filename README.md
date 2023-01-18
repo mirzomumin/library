@@ -14,7 +14,7 @@ $ cd library
 Create a virtual environment to install dependencies in and activate it:
 
 ```sh
-$ virtualenv --no-site-packages env
+$ virtualenv env
 $ source env/bin/activate
 ```
 
@@ -26,22 +26,21 @@ Then install the dependencies:
 Note the `(env)` in front of the prompt. This indicates that this terminal
 session operates in a virtual environment set up by `virtualenv`.
 
-Once `pip` has finished downloading the dependencies:
-```sh
-(env)$ cd project
-(env)$ python manage.py runserver
-```
-And navigate to `http://127.0.0.1:8000/swagger/`.
 
 
-## Database
-
-To create database of the project run the following command:
+Once `pip` has finished downloading the dependencies run the following command
+to create database/database structure of the project:
 ```sh
 (env)$ python manage.py migrate
 ```
 the primary database settings of django are configured for sqlite3 but
 you can set any database you wish
+
+After follow the command to run app on local server:
+```sh
+(env)$ python manage.py runserver
+```
+And navigate to `http://127.0.0.1:8000/swagger/`.
 
 ## Fixtures
 

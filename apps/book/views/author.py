@@ -5,28 +5,30 @@ from rest_framework.status import HTTP_400_BAD_REQUEST
 from drf_yasg.utils import swagger_auto_schema
 
 from book.serializers.book import (
-	AuthorSerializer,
+    AuthorSerializer,
 )
 from book.models import Author
+
+
 # Create your views here.
 
 
 class AuthorUpdateAPIView(APIView):
-	'''Update author instance'''
+    '''Update author instance'''
 
-	@swagger_auto_schema(request_body=AuthorSerializer)
-	def patch(self, request, author_id):
-		'''Update selected author'''
-		author = get_object_or_404(Author, id=author_id)
-		serializer = AuthorSerializer(author, data=request.data)
-		if serializer.is_valid(raise_exception=True):
-			serializer.save()
-			return Response(serializer.data)
-		return Response(serializer.errors, status=HTTP_400_BAD_REQUEST)
+    @swagger_auto_schema(request_body=AuthorSerializer)
+    def patch(self, request, author_id):
+        '''Update selected author'''
+        author = get_object_or_404(Author, id=author_id)
+        serializer = AuthorSerializer(author, data=request.data)
+        if serializer.is_valid(raise_exception=True):
+            serializer.save()
+            return Response(serializer.data)
+        return Response(serializer.errors, status=HTTP_400_BAD_REQUEST)
 
 
 class AuthorListAPIView(ListAPIView):
-	'''Get list of all book authors'''
+    '''Get list of all book authors'''
 
-	queryset = Author.objects.all()
-	serializer_class = AuthorSerializer
+    queryset = Author.objects.all()
+    serializer_class = AuthorSerializer

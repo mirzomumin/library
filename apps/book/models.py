@@ -8,7 +8,7 @@ from helpers.models import BaseModel
 
 class Category(BaseModel):
     '''Category of book'''
-    name = models.CharField(max_length=128, unique=True)
+    name = models.CharField(max_length=256, unique=True)
 
     class Meta:
         verbose_name_plural = 'Categories'
@@ -20,7 +20,7 @@ class Category(BaseModel):
 
 class Author(BaseModel):
     '''Author of book'''
-    name = models.CharField(max_length=128, db_index=True,
+    name = models.CharField(max_length=256, db_index=True,
                             unique=True)
 
     def __str__(self):
@@ -30,7 +30,7 @@ class Author(BaseModel):
 
 class Book(BaseModel):
     '''Simple book model'''
-    name = models.CharField(max_length=128, db_index=True,
+    name = models.CharField(max_length=256, db_index=True,
                             unique=True)
     description = models.TextField()
     price = models.DecimalField(max_digits=10, decimal_places=2)
